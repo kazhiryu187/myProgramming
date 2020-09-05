@@ -1,18 +1,18 @@
 public class tam1 {
-	
+
 	static public final int var1 = 2342;
-	
+
 	public static void main(String[] args){
-		
+
 		byte bt = 127;
 		short bs = 32767;
 		int bi = 2100000000;
 		long bl = 920000000000000000L;
 		float bf = 3.14F;
 		double bd = 3.1234567890;
-		
+
 		boolean ToF = false;
-		
+
 		System.out.println("====================");
 		System.out.println(" ");
 		System.out.println(Float.MAX_VALUE);
@@ -37,4 +37,5 @@ public class tam1 {
 		System.out.println(" ");
 		System.out.println("====================");
 	}
-} 
+}
+ 
