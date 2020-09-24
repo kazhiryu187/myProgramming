@@ -1,6 +1,6 @@
 # Celsius to Fahrenheit converter
 
-cel = int(input('Temperature in Celsius: '))
+cel = float(input('Temperature in Celsius: '))
 
 #cel = int(cel)
 
