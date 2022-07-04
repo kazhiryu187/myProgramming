@@ -1,2 +1,2 @@
 # myProgramming
-Just a backup really for now...
+I am new to prgramming.
